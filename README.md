@@ -5,6 +5,7 @@ This is a simple contact form by using [Redux Form](https://redux-form.com) and 
 To test out you can clone and type in
 
 ```js
+npm install
 npm start
 ```
 
